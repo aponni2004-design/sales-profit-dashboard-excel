@@ -52,5 +52,5 @@ This makes the dashboard interactive and easy to explore.
 ---
 
 ## 👩‍💻 Author
-Ponni  
+Ponni A
 Aspiring Data Analyst | Excel & Data Visualization
